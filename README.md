@@ -4,7 +4,8 @@ The purpose of this technical assessment is to gauge your coding skill and your 
 
 You may write-up the assessment in any mainstream coding language, but as Xendit primarily uses Typescript and Go, submissions in these languages are preferred.
 
-Evaluation criteria
+##Evaluation criteria
+
 Coding style and code readability. Choose good variable names, with the right balance between brevity and verboseness. Write short functions with meaningful names.
 See clean code by Robert C. Martin (https://www.youtube.com/watch?v=7EmboKQH8lM&t=3336).
 
