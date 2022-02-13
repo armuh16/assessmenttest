@@ -1,4 +1,4 @@
-Coding Technical Assessment: Data Reconcilation
+Coding Technical Assessment : Data Reconcilation
 
 The purpose of this technical assessment is to gauge your coding skill and your thinking on a data reconciliation sample problem.
 
