@@ -25,6 +25,7 @@ B. Produce a summary report, in text format, listing the following data:
 date range for the report.
 number of source records processed.
 numbers and types of discrepancies.
+
 C. Package your code and output reports (A and B above) as a zip file.
 
 Development environment and constraints
