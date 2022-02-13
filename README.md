@@ -25,8 +25,6 @@ number of source records processed.
 numbers and types of discrepancies.
 C. Package your code and output reports (A and B above) as a zip file.
 
-Submit items A, B and C (packaged as a zip file) to siuyin@xendit.co
-
 Development environment and constraints
 You may use any mainstream language (eg. nodejs, python, java etc.), but submissions in TypeScript (https://www.typescriptlang.org/) and Go (https://golang.org/) are preferred.
 
