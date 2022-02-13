@@ -13,7 +13,8 @@ Unit tests. Ensure you code tests for the required behaviours. See, for example,
 
 Function. Your code must work correctly.
 
-Instructions
+Instructions :
+
 Reconcile source.csv and proxy.csv for the month of July 2021.
 
 Think of source.csv as a bank statement and proxy.csv as your own record of the transactions.
