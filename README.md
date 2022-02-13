@@ -18,7 +18,7 @@ Reconcile source.csv and proxy.csv for the month of July 2021.
 
 Think of source.csv as a bank statement and proxy.csv as your own record of the transactions.
 
-A. Produce an output report, in csv format, of mismatched, i.e. non-reconciled entries. The report format should follow proxy.csv's format but have an additional Remarks column appended. The Remarks column should highlight the reason for the discrepancy. Think about how to make the Remarks column user-friendly.
+*A. Produce an output report, in csv format, of mismatched, i.e. non-reconciled entries. The report format should follow proxy.csv's format but have an additional Remarks column appended. The Remarks column should highlight the reason for the discrepancy. Think about how to make the Remarks column user-friendly.
 
 B. Produce a summary report, in text format, listing the following data:
 
