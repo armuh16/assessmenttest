@@ -2,7 +2,7 @@ Coding Technical Assessment : Data Reconcilation
 
 The purpose of this technical assessment is to gauge your coding skill and your thinking on a data reconciliation sample problem.
 
-You may write-up the assessment in any mainstream coding language, but as Xendit primarily uses Typescript and Go, submissions in these languages are preferred.
+You may write-up the assessment in any mainstream coding language, but as primarily uses Typescript and Go, submissions in these languages are preferred.
 
 Evaluation criteria :
 
